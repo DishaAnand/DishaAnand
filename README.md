@@ -1,18 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sadanand Akshay Pai</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Disha Anand</h1>
+<h3 align="center"></h3>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/paicube"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <a href="https://www.linkedin.com/in/disha-anand-80bb481b2"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <br><br>
- <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
+<!--  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p> -->
 </div>
 
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
-
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
-
-- ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
 
 <br>
 
@@ -26,9 +21,9 @@
   
 <br>
   
-<a href="https://github.com/sadanandpai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanandpai&theme=radical&hide=glsl,python" />
+<a href="https://github.com/DishaAnand/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAnand&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadanandpai&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DishaAnand&show_icons=true&theme=radical&line_height=27" alt="DishaAnand's github stats" />
 </a>
