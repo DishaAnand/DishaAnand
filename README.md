@@ -1,15 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Disha Anand</h1>
 <h3 align="center"></h3>
 
-<div align=center>
-  <a href="https://www.linkedin.com/in/disha-anand-80bb481b2"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <br><br>
-<!--  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p> -->
-</div>
 
-- 👨‍💻 I am a frontend developer with focus on web fundamentals.I build personal projects during my free time.
+<b>👩🏻‍💻Fullstack Developer adept at crafting high-quality React apps for production, driven by a passion for collaborative excellence in design, development, and delivery.</b>
 
-<br>
+
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
